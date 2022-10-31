@@ -1,0 +1,15 @@
+C:\Users\OMEN\source\repos\WEEEEEEE\WEEEEEEE\obj\Debug\net6.0\WEEEEEEE.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\WEEEEEEE\WEEEEEEE\obj\Debug\net6.0\WEEEEEEE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\WEEEEEEE\WEEEEEEE\obj\Debug\net6.0\WEEEEEEE.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\WEEEEEEE\WEEEEEEE\obj\Debug\net6.0\WEEEEEEE.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\WEEEEEEE\WEEEEEEE\obj\Debug\net6.0\WEEEEEEE.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\WEEEEEEE\WEEEEEEE\bin\Debug\net6.0\WEEEEEEE.exe
+C:\Users\OMEN\source\repos\WEEEEEEE\WEEEEEEE\bin\Debug\net6.0\WEEEEEEE.deps.json
+C:\Users\OMEN\source\repos\WEEEEEEE\WEEEEEEE\bin\Debug\net6.0\WEEEEEEE.runtimeconfig.json
+C:\Users\OMEN\source\repos\WEEEEEEE\WEEEEEEE\bin\Debug\net6.0\WEEEEEEE.dll
+C:\Users\OMEN\source\repos\WEEEEEEE\WEEEEEEE\bin\Debug\net6.0\WEEEEEEE.pdb
+C:\Users\OMEN\source\repos\WEEEEEEE\WEEEEEEE\obj\Debug\net6.0\WEEEEEEE.dll
+C:\Users\OMEN\source\repos\WEEEEEEE\WEEEEEEE\obj\Debug\net6.0\refint\WEEEEEEE.dll
+C:\Users\OMEN\source\repos\WEEEEEEE\WEEEEEEE\obj\Debug\net6.0\WEEEEEEE.pdb
+C:\Users\OMEN\source\repos\WEEEEEEE\WEEEEEEE\obj\Debug\net6.0\WEEEEEEE.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\WEEEEEEE\WEEEEEEE\obj\Debug\net6.0\ref\WEEEEEEE.dll
